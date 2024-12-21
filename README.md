@@ -57,12 +57,12 @@ Installation
 Prerequisites
 Python 3.7 or higher
 Required libraries:
-pandas
-matplotlib
-ipywidgets
-firebase
-fuzzywuzzy
-BeautifulSoup
+pandas,
+matplotlib,
+ipywidgets,
+firebase,
+fuzzywuzzy,
+BeautifulSoup.
 
 
 
