@@ -68,7 +68,7 @@ firebase,
 fuzzywuzzy,
 BeautifulSoup.
 
-#GUI
+# GUI
 
 Adding some screenshots of the GUI:
 
