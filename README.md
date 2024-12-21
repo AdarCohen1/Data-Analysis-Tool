@@ -68,6 +68,8 @@ firebase,
 fuzzywuzzy,
 BeautifulSoup.
 
+#GUI
+
 Adding some screenshots of the GUI:
 
 Home page:
