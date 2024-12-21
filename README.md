@@ -69,7 +69,7 @@ Adding some screenshots of the GUI:
 Home page:
 ![image](https://github.com/user-attachments/assets/e8526dad-1af1-4570-9e72-2d5132a5d714)
 
-Choosing the most active action that student used:
+Choosing the most common active action that student used:
 ![image](https://github.com/user-attachments/assets/d71c4008-a47a-47fe-9aa1-8299e0014293)
 
 
