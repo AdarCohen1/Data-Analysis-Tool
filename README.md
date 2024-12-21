@@ -65,6 +65,7 @@ fuzzywuzzy,
 BeautifulSoup.
 
 Adding some screenshots of the GUI:
+
 Home page:
 ![image](https://github.com/user-attachments/assets/e8526dad-1af1-4570-9e72-2d5132a5d714)
 
