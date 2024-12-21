@@ -1,7 +1,6 @@
 # Data-Analysis-Tool
 
-This project is an interactive data analysis tool implemented in Python for analyzing user activities, document usage, and operational trends. It is designed with a graphical interface for ease of use and features detailed visualizations and customizable analysis.
-
+This project is an interactive data analysis tool implemented in Python on Google Colab for analyzing user activities, document usage, and operational trends. It is designed with a graphical interface for ease of use and features detailed visualizations and customizable analysis.
 Key Functionalities
 1. Data Handling
 JSON Upload: Users can upload local JSON files containing activity logs for analysis.
