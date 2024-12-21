@@ -64,6 +64,20 @@ firebase,
 fuzzywuzzy,
 BeautifulSoup.
 
+Adding some screenshots of the GUI:
+Home page:
+![image](https://github.com/user-attachments/assets/e8526dad-1af1-4570-9e72-2d5132a5d714)
+
+Choosing the most active action that student used:
+![image](https://github.com/user-attachments/assets/d71c4008-a47a-47fe-9aa1-8299e0014293)
+
+
+User work time on the project (based on infromation from the JSON file):
+![image](https://github.com/user-attachments/assets/a9933471-4bc9-415e-a0e3-d3cdac43f7fe)
+
+
+Count the activity actions of one or more students (on the image I chose all students):
+![image](https://github.com/user-attachments/assets/426670fe-5219-48a0-bad2-2301a1b3cbda)
 
 
 
