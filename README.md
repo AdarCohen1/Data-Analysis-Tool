@@ -23,13 +23,16 @@ Operations Distribution: Analyze the distribution of various operations across d
 Daily Activity Trends: Display the amount of user activity over time with line graphs.
 Glossary Index Comparison: Compare activity logs with an indexed glossary of terms fetched from the Onshape glossary page.
 Document Usage Distribution: Visualize which documents are accessed most frequently by users.
+
 4. Text Preprocessing
 Stop Words Removal: Filters out common stop words to focus on meaningful terms.
 Stemming: Uses PorterStemmer to reduce words to their base forms for efficient indexing.
 Word Count: Tokenizes and counts word occurrences in the activity data for further analysis.
+
 5. Web Scraping
 Fetches a glossary of terms from Onshape’s help page using BeautifulSoup.
 Compares glossary terms with processed JSON data to identify term frequency matches.
+
 6. Visualization
 Generates a variety of charts using matplotlib:
 Bar charts for document time distribution.
