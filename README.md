@@ -14,7 +14,6 @@ Keyword Matching:
 Uses fuzzywuzzy to detect user input and map it to relevant analysis functions based on keywords.
 3. Analysis Modules
 The tool provides multiple modules for analyzing and visualizing data:
-
 Tab Time Analysis: Calculate and display the average time users spend on specific tabs or documents.
 Activity Timeline: Visualize the timeline of document opening and closing events for each user.
 Frequent Actions: Identify the most frequent actions and show the number of actions performed by each user.
