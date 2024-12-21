@@ -35,7 +35,8 @@ Generates a variety of charts using matplotlib:
 Bar charts for document time distribution.
 Line plots for user activity trends over time.
 Stacked bar charts for document usage by user.
-How It Works
+# How It Works
+
 Run the Notebook:
 
 Start the notebook in Google Colab or a Jupyter environment.
@@ -52,7 +53,9 @@ Graphs and tables are dynamically generated and displayed based on user selectio
 Keyword Search:
 
 Enter descriptive phrases (e.g., "average time per tab") in the chat interface to quickly access relevant analysis functions.
-Installation
+
+# Installation
+
 Prerequisites
 Python 3.7 or higher
 Required libraries:
